@@ -27,7 +27,7 @@ Aplicação web desenvolvida durante o curso introdutório de react-native ofere
    Javascript
    
 ## Framework utilizado:
-  [React](https://reactjs.org);
+  [React](https://reactjs.org)
   >A JavaScript library for building user interfaces
 
 ## Objetivo:
