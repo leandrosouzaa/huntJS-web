@@ -75,8 +75,12 @@ Aplicação web desenvolvida durante o curso introdutório de react-native ofere
 
 ## Clonagem e debug
 
-Caso clone o projeto, será necessário rodar o comando ```yarn install``` para instalar todas as dependências contidas no package.json
-
+ - Após a clonagem do projeto é necessário instalar as dependências utilizadas no desenvolvimento da aplicação.
+ - Para instalar as dependências execute o comando ```yarn install``` na pasta raíz do projeto. Utilize o terminal que preferir para a execução do comando.
+ - Com a execução do comando bem sucedida, é necessário debugar aplicação. Para isso, execute o script personalizado ```yarn start``` no diretório raíz do projeto.
+ - A URL utilizada pela aplicação é ```http://localhost:3000```. 
+ - Uma aba em seu navegador será aberta com a aplicação em execução.
+ 
 ## Desenvolvedor:
   [@leandrosouzaa](https://github.com/leandrosouzaa)
   >A Padawan Programmer
